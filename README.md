@@ -34,9 +34,9 @@
 ```bash
   git add .
 ```
-или:
+  или:
 ```bash
-git add --all
+  git add --all
 ```
   
 
